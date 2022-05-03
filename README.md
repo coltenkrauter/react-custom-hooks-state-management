@@ -43,7 +43,7 @@ I've implemented this in two small-to-medium sized apps so far and things have g
 
 ## ToDo
 
-[ ] Gather performance information
+- [ ] Gather performance information
 
 ## Resoures
 
